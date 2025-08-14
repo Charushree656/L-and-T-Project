@@ -11,9 +11,6 @@ Aarvisha yadav
 Overview:
 A vibrant, responsive website designed to promote a music band with engaging visuals, event updates, and easy navigation.
 
-2️⃣ NGO awareness website
-Overview:
-A clean, informative website created to raise awareness about the NGO’s mission, activities, and community impact.
 
 
 
